@@ -1,0 +1,4 @@
+first_scale 0.2
+cycle_count 2
+action_duration 40
+pause 40

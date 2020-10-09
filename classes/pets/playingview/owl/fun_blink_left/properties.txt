@@ -1,0 +1,4 @@
+first_scale 0.2
+cycle_count Timeline.INDEFINITE
+action_duration 50
+pause 2000
